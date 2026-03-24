@@ -1,0 +1,1 @@
+# cachyos-fastfetch-logo
